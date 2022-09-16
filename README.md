@@ -7,4 +7,4 @@ To run this application locally, execute the following commands in sequence from
 
 and access the application at http://localhost:3000/
 
-To access the application live on the internet, navigate to https://my-json-server.typicode.com/your_github_username/your_repository_name for example https://my-json-server.typicode.com/myogeshchavan97/users-api
+To access the application live on the internet, navigate to https://my-json-server.typicode.com/your_github_username/your_repository_name for example https://my-json-server.typicode.com/tix-leebeedev/product-validator
